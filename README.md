@@ -1,8 +1,6 @@
 ### A trip from cocos2d-iphone to cocos2d-html5
 
-<img src="./snapshot/a_trip_from_cocos2d_iphone_to_cocos2d_html5_en.png" width="30%"/>
-
-<img src="./snapshot/a_trip_from_cocos2d_iphone_to_cocos2d_html5_zh.png" width="30%"/>
+<img src="./snapshot/a_trip_from_cocos2d_iphone_to_cocos2d_html5_en.png" width="40%"/><img src="./snapshot/a_trip_from_cocos2d_iphone_to_cocos2d_html5_zh.png" width="40%"/>
 
 A published [book on iBookStore ](https://itunes.apple.com/us/book/trip-from-cocos2d-iphone-to/id633105012) recoding my learning experience from `cocos2d-iphone` to `cocos2d-html5`.
 
